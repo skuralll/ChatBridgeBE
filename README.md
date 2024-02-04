@@ -1,4 +1,4 @@
-# BossBarAPI
+# ChatBridgeBE
 Minecraft統合版向けサーバーソフトであるPocketMine-MP用プラグイン  
 DiscordとMinecraft サーバー上のチャットを同期し、相互に会話できるようにします。
 ## 注意点
